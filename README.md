@@ -32,7 +32,8 @@ sail up
 sail php artisan migrate -seed
 
 ```
-    
+Make sure the "Gambling.com - affiliates.txt" file is in the storage/app/public folder with no name changes.
+
 ## Running Tests
 
 To run tests, run the following command
